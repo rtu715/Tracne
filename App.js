@@ -1,5 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
+import { ProfilePage } from './JavaScript/Views/ProfilePage';
+import { RootNavigator } from './JavaScript/Views/RootNavigator';
 
 /**
  * the landing page
