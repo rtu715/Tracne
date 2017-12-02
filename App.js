@@ -4,7 +4,7 @@ import { ProfilePage } from './JavaScript/Views/ProfilePage';
 import { RootNavigator } from './JavaScript/Views/RootNavigator';
 
 /**
- * the landing page
+ * the landing page.
  */
 export default class App extends React.Component {
   render() {
